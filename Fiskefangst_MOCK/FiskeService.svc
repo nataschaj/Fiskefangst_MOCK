@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Fiskefangst_MOCK.FiskeService" CodeBehind="FiskeService.svc.cs" %>

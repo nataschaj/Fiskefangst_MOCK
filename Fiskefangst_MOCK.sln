@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiskefangst_MOCK", "Fiskefangst_MOCK\Fiskefangst_MOCK.csproj", "{4A1F5EB2-E208-42CC-9114-BA8AC00E1FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Fisk_MOCK", "Console_Fisk_MOCK\Console_Fisk_MOCK.csproj", "{6BFA248F-88BD-4DAB-86C7-6B3B580C619F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1F5EB2-E208-42CC-9114-BA8AC00E1FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1F5EB2-E208-42CC-9114-BA8AC00E1FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1F5EB2-E208-42CC-9114-BA8AC00E1FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1F5EB2-E208-42CC-9114-BA8AC00E1FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFA248F-88BD-4DAB-86C7-6B3B580C619F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFA248F-88BD-4DAB-86C7-6B3B580C619F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFA248F-88BD-4DAB-86C7-6B3B580C619F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFA248F-88BD-4DAB-86C7-6B3B580C619F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E16C170-10E2-4021-8F31-E74FDDD41B7A}
+	EndGlobalSection
+EndGlobal
